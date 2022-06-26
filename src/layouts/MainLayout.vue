@@ -159,6 +159,7 @@
 <script>
 import { ref } from 'vue'
 import { fasEarthAmericas, fasFlask } from '@quasar/extras/fontawesome-v6'
+
 export default {
   name: 'GoogleNewsLayout',
   setup () {
